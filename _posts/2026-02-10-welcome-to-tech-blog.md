@@ -1,6 +1,6 @@
 ---
 title: このブログについて
-date: 2026-02-11 09:00:00 +0900
+date: 2026-02-10 09:00:00 +0900
 categories: [About]
 tags: [introduction, blog]
 pin: true
