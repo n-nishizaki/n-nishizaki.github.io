@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://n-nishizaki.github.io/sitemap.xml
